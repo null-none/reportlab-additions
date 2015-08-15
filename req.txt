@@ -1,0 +1,4 @@
+Flask==0.10.1
+Flask-Script==2.0.5
+pyPdf==1.13
+reportlab==3.2.0
